@@ -1,2 +1,2 @@
 # AdsBlock
-Just a personal ada block
+Just a personal ads block
